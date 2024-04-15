@@ -18,3 +18,7 @@ Optimize for runtime over memory
 We can do this in O(n) time, where n is the length of movieLengths.
 
 Remember: your users shouldn't watch the same movie twice. Are you sure your method won’t give a false positive if the array has one element that is half flightLength?
+
+## Reference
+
+* [InterviewCake](https://www.interviewcake.com/question/java/inflight-entertainment)
